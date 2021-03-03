@@ -1,0 +1,36 @@
+{
+  "restaurants": [
+    {
+      "name": "Sano Shaibaaz Love",
+      "email": "shahebaajsanoinamdar786@gmail.com",
+      "address": "Dhamani vikhroli",
+      "id": 1
+    },
+    {
+      "name": "Shahebaaz Inamdar",
+      "email": "abc@gmail.com",
+      "address": "near grampanchayat",
+      "id": 2
+    },
+    {
+      "name": "Shahebaaz Ashpak Inamdar",
+      "email": "abcd@gmail.com",
+      "address": "near grampanchayat",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Shahebaaz Inamdar",
+      "email": "abc@gmail.com",
+      "password": "sanober",
+      "id": 1
+    },
+    {
+      "name": "Shahebaaz Inamdar",
+      "email": "abc@gmail.com",
+      "password": "sanober",
+      "id": 2
+    }
+  ]
+}
